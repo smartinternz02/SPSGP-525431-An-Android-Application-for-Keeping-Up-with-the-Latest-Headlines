@@ -2,7 +2,7 @@
 # FlashNews - Swipe Through Latest News Headlines!
 
 ## Demo Video For The Project -> [Click Here](https://drive.google.com/file/d/13d32Xu2j4YQTF_ddBwLqdNyXsSKp_qxZ/view?usp=sharing)
-## Project Report -> [Click Here]()
+## Project Report -> [Click Here](https://github.com/smartinternz02/SPSGP-525431-An-Android-Application-for-Keeping-Up-with-the-Latest-Headlines/blob/main/Android_application_to_keep_up_with_the_news_headline_Report.pdf)
 ## Link To Main Project Repository -> [Get It Here](https://github.com/shankarlohar/20BAI10040-VITBHOPAL-Smartbridge-Externship.git)
 
 
